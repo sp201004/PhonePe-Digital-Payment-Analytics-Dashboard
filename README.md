@@ -276,8 +276,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 **Author**
 
 **Your Name**
-- GitHub: [Surya Pratap Singh](https://github.com/sp201004)
-- LinkedIn: [Surya Pratap Singh](https://linkedin.com/in/suryapratapsingh1)
+- GitHub: [sp201004](https://github.com/sp201004)
+- LinkedIn: [suryapratapsingh1](https://linkedin.com/in/suryapratapsingh1)
 - Email: sp01042002@gmail.com
 
 ---
